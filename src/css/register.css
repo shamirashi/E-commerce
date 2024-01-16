@@ -1,0 +1,62 @@
+.login-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f2f2f2;
+}
+  
+.form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+  
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+  
+.h1_1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+  
+.one {
+    margin-bottom: 15px;
+    padding: 8px;
+    width: 100%;
+}
+  
+.lab1 {
+    display: block;
+    margin-bottom: 10px;
+}
+  
+input[type="file"] {
+    display: block;
+    margin-bottom: 15px;
+}
+  
+input[type="text"],
+  input[type="tel"],
+  input[type="email"],
+  input[type="password"] {
+    margin-bottom: 15px;
+    padding: 8px;
+    width: 100%;
+}
+  
+  .sub2 {
+    background-color: rgb(127, 95, 138); 
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+ 
+  

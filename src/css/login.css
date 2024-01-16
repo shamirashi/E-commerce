@@ -1,0 +1,49 @@
+  form {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color:  rgb(127, 95, 138);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color:  rgb(127, 95, 138);
+  }
+  
+  .row {
+    margin-top: 20px;
+  }
+  
+  .register {
+    text-align: center;
+    color: #333;
+  }
+  
+  .register span {
+    font-weight: bold;
+    color:  rgb(127, 95, 138);
+  }
+  

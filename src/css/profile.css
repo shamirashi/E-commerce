@@ -1,0 +1,30 @@
+.box {
+    border-right: 1px solid #313030;  
+    border-top: 1px solid #313030;    
+    border-bottom: 1px solid #313030; 
+    height: 500px;
+}
+.user{
+    font-size: 30px;
+    font-weight: 500;
+    font-style: oblique;
+    border-bottom: 1px solid #313030;
+}
+.per{
+  border-bottom: 1px solid #313030;  
+  font-size: 18px;
+  font-weight: 500;
+}
+.per1{
+    margin-top: 10px;
+}
+.secure{
+   width: 150px;
+   height: 150px;
+}
+.ord{
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    font-style: oblique;
+}
